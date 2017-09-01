@@ -1,0 +1,872 @@
+[
+  {
+    "i": "cryptopia",
+    "n": "Cryptopia",
+    "b": false
+  },
+  {
+    "i": "yobtc",
+    "n": "Yobtc",
+    "b": false
+  },
+  {
+    "i": "bithumb",
+    "n": "Bithumb",
+    "b": false
+  },
+  {
+    "i": "coinsquare",
+    "n": "Coinsquare",
+    "b": false
+  },
+  {
+    "i": "huobi",
+    "n": "Huobi",
+    "b": false
+  },
+  {
+    "i": "gdax",
+    "n": "GDAX",
+    "b": false
+  },
+  {
+    "i": "btcturk",
+    "n": "BTCTurk",
+    "b": false
+  },
+  {
+    "i": "binance",
+    "n": "Binance",
+    "b": false
+  },
+  {
+    "i": "coincheck",
+    "n": "Coincheck",
+    "b": false
+  },
+  {
+    "i": "yunbi",
+    "n": "Yunbi",
+    "b": false
+  },
+  {
+    "i": "therocktrading",
+    "n": "The Rock Trading",
+    "b": false
+  },
+  {
+    "i": "beibt",
+    "n": "BeiBT",
+    "b": false
+  },
+  {
+    "i": "bitonic",
+    "n": "Bitonic",
+    "b": false
+  },
+  {
+    "i": "ripplefox",
+    "n": "RippleFox",
+    "b": false
+  },
+  {
+    "i": "btc-alpha",
+    "n": "BTC Alpha",
+    "b": false
+  },
+  {
+    "i": "btc38",
+    "n": "BTC38",
+    "b": false
+  },
+  {
+    "i": "usd-x",
+    "n": "USD X",
+    "b": false
+  },
+  {
+    "i": "bitbays",
+    "n": "BitBays",
+    "b": false
+  },
+  {
+    "i": "bitfinex",
+    "n": "Bitfinex",
+    "b": false
+  },
+  {
+    "i": "cryptoderivatives",
+    "n": "CryptoDerivatives",
+    "b": false
+  },
+  {
+    "i": "bitgrail",
+    "n": "BitGrail",
+    "b": false
+  },
+  {
+    "i": "bit520",
+    "n": "Bit520",
+    "b": false
+  },
+  {
+    "i": "lakebtc",
+    "n": "LakeBTC",
+    "b": false
+  },
+  {
+    "i": "ore-bz",
+    "n": "Ore.Bz",
+    "b": false
+  },
+  {
+    "i": "bitso",
+    "n": "Bitso",
+    "b": false
+  },
+  {
+    "i": "korbit",
+    "n": "Korbit",
+    "b": false
+  },
+  {
+    "i": "ethexindia",
+    "n": "ETHEXIndia",
+    "b": false
+  },
+  {
+    "i": "jubi",
+    "n": "Jubi",
+    "b": false
+  },
+  {
+    "i": "virtacoinworld",
+    "n": "VirtacoinWorld",
+    "b": false
+  },
+  {
+    "i": "excambriorex",
+    "n": "ExcambrioRex",
+    "b": false
+  },
+  {
+    "i": "exmo",
+    "n": "Exmo",
+    "b": false
+  },
+  {
+    "i": "btc9",
+    "n": "BTC9",
+    "b": false
+  },
+  {
+    "i": "gatehub",
+    "n": "Gatehub",
+    "b": false
+  },
+  {
+    "i": "gemini",
+    "n": "Gemini",
+    "b": false
+  },
+  {
+    "i": "allcoin",
+    "n": "Allcoin",
+    "b": false
+  },
+  {
+    "i": "bcc-exchange",
+    "n": "BCC Exchange",
+    "b": false
+  },
+  {
+    "i": "abwang",
+    "n": "ABwang",
+    "b": false
+  },
+  {
+    "i": "viabtc",
+    "n": "ViaBTC",
+    "b": false
+  },
+  {
+    "i": "localtrade",
+    "n": "LocalTrade",
+    "b": false
+  },
+  {
+    "i": "okcoin-cn",
+    "n": "OKCoin.cn",
+    "b": false
+  },
+  {
+    "i": "quoine",
+    "n": "Quoine",
+    "b": false
+  },
+  {
+    "i": "gatecoin",
+    "n": "Gatecoin",
+    "b": false
+  },
+  {
+    "i": "coinmate",
+    "n": "CoinMate",
+    "b": false
+  },
+  {
+    "i": "51szzc",
+    "n": "51szzc",
+    "b": false
+  },
+  {
+    "i": "itbit",
+    "n": "itBit",
+    "b": false
+  },
+  {
+    "i": "okcoin-intl",
+    "n": "OkCoin Intl.",
+    "b": false
+  },
+  {
+    "i": "e-dinar",
+    "n": "E-DINAR",
+    "b": false
+  },
+  {
+    "i": "mercatox",
+    "n": "Mercatox",
+    "b": false
+  },
+  {
+    "i": "19800",
+    "n": "19800",
+    "b": false
+  },
+  {
+    "i": "poloniex",
+    "n": "Poloniex",
+    "b": false
+  },
+  {
+    "i": "alcurex",
+    "n": "alcurEX",
+    "b": false
+  },
+  {
+    "i": "bitflyer",
+    "n": "bitFlyer",
+    "b": false
+  },
+  {
+    "i": "btc100",
+    "n": "BTC100",
+    "b": false
+  },
+  {
+    "i": "btc-markets",
+    "n": "BTC Markets",
+    "b": false
+  },
+  {
+    "i": "isx",
+    "n": "ISX",
+    "b": false
+  },
+  {
+    "i": "oasisdex",
+    "n": "OasisDEX",
+    "b": false
+  },
+  {
+    "i": "paribu",
+    "n": "Paribu",
+    "b": false
+  },
+  {
+    "i": "southxchange",
+    "n": "SouthXchange",
+    "b": false
+  },
+  {
+    "i": "btc-trade-ua",
+    "n": "BTC Trade UA",
+    "b": false
+  },
+  {
+    "i": "bitcoin-indonesia",
+    "n": "Bitcoin Indonesia",
+    "b": false
+  },
+  {
+    "i": "waves-dex",
+    "n": "Waves Decentralized Exchange",
+    "b": false
+  },
+  {
+    "i": "kraken",
+    "n": "Kraken",
+    "b": false
+  },
+  {
+    "i": "kuna",
+    "n": "Kuna",
+    "b": false
+  },
+  {
+    "i": "swis-exchange",
+    "n": "Swis Exchange",
+    "b": false
+  },
+  {
+    "i": "bitcoin-growth-fund-exchange",
+    "n": "Bitcoin Growth Fund Exchange",
+    "b": false
+  },
+  {
+    "i": "ok-bit",
+    "n": "OK-BIT",
+    "b": false
+  },
+  {
+    "i": "luno",
+    "n": "Luno",
+    "b": false
+  },
+  {
+    "i": "triple-dice-exchange",
+    "n": "Tripe Dice Exchange",
+    "b": false
+  },
+  {
+    "i": "nevbit",
+    "n": "Nevbit",
+    "b": false
+  },
+  {
+    "i": "coinsmarkets",
+    "n": "CoinsMarkets",
+    "b": false
+  },
+  {
+    "i": "exrates",
+    "n": "Exrates",
+    "b": false
+  },
+  {
+    "i": "bits-blockchain",
+    "n": "Bits Blockchain",
+    "b": false
+  },
+  {
+    "i": "independent-reserve",
+    "n": "Independent Reserve",
+    "b": false
+  },
+  {
+    "i": "mr_ripple",
+    "n": "Mr. Ripple",
+    "b": false
+  },
+  {
+    "i": "leoxchange",
+    "n": "LEOxChange",
+    "b": false
+  },
+  {
+    "i": "crypto-dao",
+    "n": "Crypto Dao",
+    "b": false
+  },
+  {
+    "i": "coincorner",
+    "n": "CoinCorner",
+    "b": false
+  },
+  {
+    "i": "guldentrader",
+    "n": "GuldenTrader",
+    "b": false
+  },
+  {
+    "i": "koinim",
+    "n": "Koinim",
+    "b": false
+  },
+  {
+    "i": "bitmex",
+    "n": "BitMEX",
+    "b": false
+  },
+  {
+    "i": "freiexchange",
+    "n": "FreiExchange",
+    "b": false
+  },
+  {
+    "i": "coss",
+    "n": "COSS",
+    "b": false
+  },
+  {
+    "i": "fargobase",
+    "n": "Fargobase",
+    "b": false
+  },
+  {
+    "i": "decentrex",
+    "n": "Decentrex",
+    "b": false
+  },
+  {
+    "i": "bitbank",
+    "n": "Bitbank",
+    "b": false
+  },
+  {
+    "i": "omni-dex",
+    "n": "Omni DEX",
+    "b": false
+  },
+  {
+    "i": "biduobao",
+    "n": "Biduobao",
+    "b": false
+  },
+  {
+    "i": "bisq",
+    "n": "Bisq",
+    "b": false
+  },
+  {
+    "i": "negocie-coins",
+    "n": "Negocie Coins",
+    "b": false
+  },
+  {
+    "i": "counterparty-dex",
+    "n": "Counterparty DEX",
+    "b": false
+  },
+  {
+    "i": "bleutrade",
+    "n": "Bleutrade",
+    "b": false
+  },
+  {
+    "i": "touzibi",
+    "n": "Touzibi",
+    "b": false
+  },
+  {
+    "i": "dc-ex",
+    "n": "DC-Ex",
+    "b": false
+  },
+  {
+    "i": "mercado-bitcoin",
+    "n": "Mercado Bitcoin",
+    "b": false
+  },
+  {
+    "i": "btcc",
+    "n": "BTCC",
+    "b": false
+  },
+  {
+    "i": "iota-exchange",
+    "n": "IOTA Exchange",
+    "b": false
+  },
+  {
+    "i": "bitsane",
+    "n": "Bitsane",
+    "b": false
+  },
+  {
+    "i": "tidebit",
+    "n": "Tidebit",
+    "b": false
+  },
+  {
+    "i": "empoex",
+    "n": "EmpoEx",
+    "b": false
+  },
+  {
+    "i": "trade-satoshi",
+    "n": "Trade Satoshi",
+    "b": false
+  },
+  {
+    "i": "tokyo-jpy",
+    "n": "Tokyo JPY",
+    "b": false
+  },
+  {
+    "i": "bitstamp-ripple-gateway",
+    "n": "Bitstamp (Ripple Gateway)",
+    "b": false
+  },
+  {
+    "i": "cryptox",
+    "n": "Cryptox",
+    "b": false
+  },
+  {
+    "i": "p2pb2b",
+    "n": "P2PB2B",
+    "b": false
+  },
+  {
+    "i": "xbtce",
+    "n": "xBTCe",
+    "b": false
+  },
+  {
+    "i": "coingi",
+    "n": "Coingi",
+    "b": false
+  },
+  {
+    "i": "dcexchange",
+    "n": "DCExchange",
+    "b": false
+  },
+  {
+    "i": "burst-asset-exchange",
+    "n": "Burst Asset Exchange",
+    "b": false
+  },
+  {
+    "i": "bittylicious",
+    "n": "Bittylicious",
+    "b": false
+  },
+  {
+    "i": "btc-x",
+    "n": "BTC-X",
+    "b": false
+  },
+  {
+    "i": "bitkonan",
+    "n": "BitKonan",
+    "b": false
+  },
+  {
+    "i": "yuanbao",
+    "n": "Yuanbao",
+    "b": false
+  },
+  {
+    "i": "bter",
+    "n": "BTER",
+    "b": false
+  },
+  {
+    "i": "ripple-china",
+    "n": "Ripple China",
+    "b": false
+  },
+  {
+    "i": "coinone",
+    "n": "Coinone",
+    "b": false
+  },
+  {
+    "i": "flowbtc",
+    "n": "FlowBTC",
+    "b": false
+  },
+  {
+    "i": "btcbox",
+    "n": "BTCBOX",
+    "b": false
+  },
+  {
+    "i": "dgtmarket",
+    "n": "Dgtmarket",
+    "b": false
+  },
+  {
+    "i": "bitex-la",
+    "n": "Bitex.la",
+    "b": false
+  },
+  {
+    "i": "bitok",
+    "n": "Bitok",
+    "b": false
+  },
+  {
+    "i": "bnt-smart-token-contract",
+    "n": "BNT Smart Token Contract",
+    "b": false
+  },
+  {
+    "i": "aidos-market",
+    "n": "AidosMarket",
+    "b": false
+  },
+  {
+    "i": "coinrate",
+    "n": "Coinrate",
+    "b": false
+  },
+  {
+    "i": "bitmarket",
+    "n": "BitMarket",
+    "b": false
+  },
+  {
+    "i": "bl3p",
+    "n": "BL3P",
+    "b": false
+  },
+  {
+    "i": "heat-wallet",
+    "n": "Heat Wallet",
+    "b": false
+  },
+  {
+    "i": "quadrigacx",
+    "n": "QuadrigaCX",
+    "b": false
+  },
+  {
+    "i": "b8wang",
+    "n": "b8wang",
+    "b": false
+  },
+  {
+    "i": "chbtc",
+    "n": "CHBTC",
+    "b": false
+  },
+  {
+    "i": "coinfloor",
+    "n": "Coinfloor",
+    "b": false
+  },
+  {
+    "i": "c2cx",
+    "n": "C2CX",
+    "b": false
+  },
+  {
+    "i": "litebit",
+    "n": "LiteBit.eu",
+    "b": false
+  },
+  {
+    "i": "tidex",
+    "n": "Tidex",
+    "b": false
+  },
+  {
+    "i": "zaif",
+    "n": "Zaif",
+    "b": false
+  },
+  {
+    "i": "btctrade",
+    "n": "BtcTrade",
+    "b": false
+  },
+  {
+    "i": "bitbay",
+    "n": "BitBay",
+    "b": false
+  },
+  {
+    "i": "lhang",
+    "n": "Lhang",
+    "b": false
+  },
+  {
+    "i": "stellar-decentralized-exchange",
+    "n": "Stellar Decentralized Exchange",
+    "b": false
+  },
+  {
+    "i": "szzc",
+    "n": "SZZC",
+    "b": false
+  },
+  {
+    "i": "bitmaszyna",
+    "n": "Bitmaszyna",
+    "b": false
+  },
+  {
+    "i": "surbtc",
+    "n": "SurBTC",
+    "b": false
+  },
+  {
+    "i": "bitstamp",
+    "n": "Bitstamp",
+    "b": false
+  },
+  {
+    "i": "bitshares-asset-exchange",
+    "n": "BitShares Asset Exchange",
+    "b": false
+  },
+  {
+    "i": "tux-exchange",
+    "n": "Tux Exchange",
+    "b": false
+  },
+  {
+    "i": "247exchange",
+    "n": "247exchange",
+    "b": false
+  },
+  {
+    "i": "nocks",
+    "n": "Nocks",
+    "b": false
+  },
+  {
+    "i": "tcc-exchange",
+    "n": "TCC Exchange",
+    "b": false
+  },
+  {
+    "i": "cex-io",
+    "n": "CEX.IO",
+    "b": false
+  },
+  {
+    "i": "lykke-exchange",
+    "n": "Lykke Exchange",
+    "b": false
+  },
+  {
+    "i": "bx-thailand",
+    "n": "BX Thailand",
+    "b": false
+  },
+  {
+    "i": "easycoin",
+    "n": "EasyCoin",
+    "b": false
+  },
+  {
+    "i": "etherdelta",
+    "n": "EtherDelta",
+    "b": false
+  },
+  {
+    "i": "hitbtc",
+    "n": "HitBTC",
+    "b": false
+  },
+  {
+    "i": "openledger",
+    "n": "OpenLedger DEX",
+    "b": false
+  },
+  {
+    "i": "livecoin",
+    "n": "Livecoin",
+    "b": false
+  },
+  {
+    "i": "bittrex",
+    "n": "Bittrex",
+    "b": false
+  },
+  {
+    "i": "c-cex",
+    "n": "C-CEX",
+    "b": false
+  },
+  {
+    "i": "liqui",
+    "n": "Liqui",
+    "b": false
+  },
+  {
+    "i": "yobit",
+    "n": "YoBit",
+    "b": false
+  },
+  {
+    "i": "novaexchange",
+    "n": "Novaexchange",
+    "b": false
+  },
+  {
+    "i": "btcxindia",
+    "n": "BTCXIndia",
+    "b": false
+  },
+  {
+    "i": "virtualworldland",
+    "n": "Virtualworldland",
+    "b": false
+  },
+  {
+    "i": "stocks-exchange",
+    "n": "Stocks.Exchange",
+    "b": false
+  },
+  {
+    "i": "nix-e",
+    "n": "NIX-E",
+    "b": false
+  },
+  {
+    "i": "cryptomate",
+    "n": "Cryptomate",
+    "b": false
+  },
+  {
+    "i": "altcoin-trader",
+    "n": "Altcoin Trader",
+    "b": false
+  },
+  {
+    "i": "bitcointoyou",
+    "n": "BitcoinToYou",
+    "b": false
+  },
+  {
+    "i": "nxt-asset-exchange",
+    "n": "Nxt Asset Exchange",
+    "b": false
+  },
+  {
+    "i": "rippex",
+    "n": "Rippex",
+    "b": false
+  },
+  {
+    "i": "bitlish",
+    "n": "Bitlish",
+    "b": false
+  },
+  {
+    "i": "dabtc",
+    "n": "DABTC",
+    "b": false
+  },
+  {
+    "i": "coingather",
+    "n": "CoinGather",
+    "b": false
+  },
+  {
+    "i": "coinsbank",
+    "n": "CoinsBank",
+    "b": false
+  },
+  {
+    "i": "coinexchange",
+    "n": "CoinExchange",
+    "b": false
+  }
+]
