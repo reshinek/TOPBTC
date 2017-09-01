@@ -21,7 +21,8 @@ request('https://api.coinmarketcap.com/v1/ticker/?convert=CNY', function (error,
         console.log("Succeed to get coin list, start to process data...");
         var aCoins = JSON.parse(body),
             oCoin,
-            oData;
+            oData,
+            oInfo;
         nCoinNum = aCoins.length;
         for (var i = 0; i < nCoinNum; i++) {
             oCoin = aCoins[i];
@@ -38,6 +39,9 @@ request('https://api.coinmarketcap.com/v1/ticker/?convert=CNY', function (error,
                 AVAILABLE_SUPPLY: oCoin.available_supply,
                 TOTAL_SUPPLY: oCoin.total_supply,
                 RANK: oCoin.rank
+            };
+            oInfo = {
+              COINID: oCoin.id
             };
             aCoinList.push({
                 i:oCoin.id,
@@ -62,11 +66,9 @@ request('https://api.coinmarketcap.com/v1/ticker/?convert=CNY', function (error,
                         console.log("quickSearchCoin File Saved !");
                         console.log('\n=========------Process Exit------=========');
                         process.exit();
-                    }) ;
-
+                    });
                 }
             });
-        }
-
+          }
     }
 });
